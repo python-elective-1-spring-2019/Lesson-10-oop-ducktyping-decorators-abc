@@ -12,3 +12,4 @@
 
 ## Exercises
 * [Adding skills by using the Duck Typing approach](exercises/duck_typing.md)
+* [Mandatory Assignment II](https://github.com/python-elective-1-spring-2019/Mandatory_assignment_2/blob/master/README.md)
