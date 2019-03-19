@@ -8,7 +8,7 @@
 ## Supplemantary reading
 
 ## Materials from today
-* [appear.in]()
+* [appear.in](https://appear.in/kea_python)
 
 ## Exercises
-* [Strategy Pattern](exercises/Strategy_Pattern.md)
+* [Adding skills by using the Duck Typing approach](exercises/duck_typing.md)
